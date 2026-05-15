@@ -2,24 +2,21 @@
 
 _Creative Engineer · Master's Student · Nagasaki University, Setozaki Lab._
 
-## Design + technology, for the best user experience.
-
-_「デザインとテクノロジーで、最高のユーザ体験を届けたい。」_
-
 ---
 
 ### `$ whoami`
 
+> **Design + technology, for the best user experience.**  
+> _「デザインとテクノロジーで、最高のユーザ体験を届けたい。」_
+
 Master's student at **Nagasaki University**, Setozaki Lab. Researching generative AI and spatial computing. I work end-to-end: design, frontend, backend, and infrastructure — across research prototypes, hackathons, and production systems.
 
-Outside research: founded **ChoTech**, a student-engineer community in Nagasaki; mentor developers from middle school through undergraduate; and join exchange / research programs abroad (Thailand, India).
+Outside research: founded **ChoTech**, a student-engineer community in Nagasaki; teach programming to learners from elementary through high school; and join exchange / research programs abroad (Thailand, India).
 
 ### `$ neofetch`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ut42tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark#gh-dark-mode-only)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ut42tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true#gh-light-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ut42tech&hide_border=true&layout=compact&langs_count=8&theme=github_dark#gh-dark-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ut42tech&hide_border=true&layout=compact&langs_count=8#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ut42tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ut42tech&hide_border=true&layout=compact&langs_count=8&theme=transparent)
 
 ### `$ top`
 
