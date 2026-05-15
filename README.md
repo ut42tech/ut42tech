@@ -1,36 +1,33 @@
-<h1 align="center">Takuya Uehara</h1>
+# Takuya Uehara
 
-<p align="center">
-  <em>Creative Engineer</em><br />
-  Master's Student · Nagasaki University, Setozaki Lab.
-</p>
+_Creative Engineer · Master's Student · Nagasaki University, Setozaki Lab._
 
-<p align="center">
-  <a href="https://ut42tech.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://x.com/ut42tech"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://note.com/ut42tech"><img src="https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white" alt="note" /></a>
-  <a href="https://www.youtube.com/@ut42tech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.wantedly.com/id/tuehara"><img src="https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white" alt="Wantedly" /></a>
-</p>
+## Design + technology, for the best user experience.
+
+_「デザインとテクノロジーで、最高のユーザ体験を届けたい。」_
 
 ---
 
-### About
+### `$ whoami`
 
-> **Design + technology, for the best user experience.**  
-> 「デザインとテクノロジーで、最高のユーザ体験を届けたい。」
+Master's student at **Nagasaki University**, Setozaki Lab. Researching generative AI and spatial computing. I work end-to-end: design, frontend, backend, and infrastructure — across research prototypes, hackathons, and production systems.
 
-I'm a master's student in Nagasaki, Japan, who lives at the intersection of design and engineering. I design and build end-to-end — generative-AI research, spatial-computing prototypes, production web platforms, and the brand around them — and I try to bring the same craft to a logo, an interface, an architecture, and a research paper.
+Outside research: founded **ChoTech**, a student-engineer community in Nagasaki; mentor developers from middle school through undergraduate; and join exchange / research programs abroad (Thailand, India).
 
-Off the keyboard, I founded **ChoTech**, a student engineer community in Nagasaki; mentor younger developers across high schools and middle schools; and travel — Thailand, India, and beyond — chasing how design and tech change with culture.
+### `$ neofetch`
 
-### Currently
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ut42tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark#gh-dark-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ut42tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true#gh-light-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ut42tech&hide_border=true&layout=compact&langs_count=8&theme=github_dark#gh-dark-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ut42tech&hide_border=true&layout=compact&langs_count=8#gh-light-mode-only)
+
+### `$ top`
 
 - 🔬 **Master's research** — building a _communication-augmentation platform that fuses generative AI with spatial computing_ at Setozaki Lab.
 - 🛠 **Shipping [tecnova-platform](https://github.com/ut42tech/tecnova-platform)** — a Turborepo monorepo (Hono on Cloudflare Workers + D1, Next.js 16, Better Auth, Drizzle) running operations for _tec-nova Nagasaki_, a creative-fabrication program for children at Nagasaki Univ.
 - 🌱 **Growing [ChoTech](https://github.com/nu-chotech)** — Nagasaki's student-engineer community, now an officially recognized university club.
 
-### Tech
+### `$ stack`
 
 **Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -105,7 +102,7 @@ Off the keyboard, I founded **ChoTech**, a student engineer community in Nagasak
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white)
 
-### Highlights
+### `$ history`
 
 **🏆 Awards**
 
@@ -134,15 +131,10 @@ Off the keyboard, I founded **ChoTech**, a student engineer community in Nagasak
 - **ZENRIN R&D** — 3-person team lead at a one-week hackathon-style internship, benchmarking OSS OCR models for road-sign detection (2024.8)
 - **tec-nova Nagasaki** — software engineer and chief designer, building the platform and user experience for this creative-fabrication program for children at Nagasaki University (2024.6—)
 
-### Stats
+### `$ ssh`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ut42tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=ut42tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="ut42tech's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ut42tech&hide_border=true&layout=compact&langs_count=8&theme=github_dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ut42tech&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
-  </picture>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ut42tech.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ut42tech)
+[![note](https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white)](https://note.com/ut42tech)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ut42tech)
+[![Wantedly](https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/tuehara)
