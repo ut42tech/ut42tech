@@ -1,13 +1,14 @@
 # Takuya Uehara
 
-_Creative Engineer · Master's Student · Nagasaki University, Setozaki Lab._
+- Software Engineer & Designer
+- Master's Student at Nagasaki University, Setozaki Lab.
 
 ---
 
 ### `$ whoami`
 
 > **Design + technology, for the best user experience.**  
-> _「デザインとテクノロジーで、最高のユーザ体験を届けたい。」_
+> 「デザインとテクノロジーで、最高のユーザ体験を届けたい。」
 
 Master's student at **Nagasaki University**, Setozaki Lab. Researching generative AI and spatial computing. I work end-to-end: design, frontend, backend, and infrastructure — across research prototypes, hackathons, and production systems.
 
