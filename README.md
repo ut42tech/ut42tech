@@ -15,8 +15,8 @@ Outside research: founded **ChoTech**, a student-engineer community in Nagasaki;
 
 ### `$ neofetch`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ut42tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ut42tech&hide_border=true&layout=compact&langs_count=8&theme=transparent)
+![GitHub Stats](https://readme-stats.ut42tech.com/api?username=ut42tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent)
+![Top Languages](https://readme-stats.ut42tech.com/api/top-langs/?username=ut42tech&hide_border=true&layout=compact&langs_count=8&theme=transparent)
 
 ### `$ top`
 
