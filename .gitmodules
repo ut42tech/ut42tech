@@ -1,0 +1,3 @@
+[submodule "hp"]
+	path = hp
+	url = https://github.com/ut42tech/hp.git
