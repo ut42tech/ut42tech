@@ -1,20 +1,20 @@
-# Takuya Uehara
+# 上原 拓也 (Takuya Uehara)
 
-- Software Engineer & Designer
-- Master's Student at Nagasaki University, Setozaki Lab.
+- ソフトウェアエンジニア & デザイナー
+- 長崎大学大学院 瀬戸崎研究室 修士課程
 
-> 🇯🇵 日本語版はこちら: [README.ja.md](./README.ja.md)
+> 🌐 English version: [README.md](./README.md)
 
 ---
 
 ### `$ whoami`
 
-> **Design + technology, for the best user experience.**  
-> 「デザインとテクノロジーで、最高のユーザ体験を届けたい。」
+> **デザインとテクノロジーで、最高のユーザ体験を届けたい。**
+> 「Design + technology, for the best user experience.」
 
-Master's student at **Nagasaki University**, Setozaki Lab. Researching generative AI and spatial computing. I work end-to-end: design, frontend, backend, and infrastructure — across research prototypes, hackathons, and production systems.
+長崎大学大学院 総合生産科学研究科 修士課程で瀬戸崎研究室に所属し、生成AIと空間コンピューティングをテーマに研究しています。研究プロトタイプからハッカソン、プロダクション環境まで、デザイン・フロントエンド・バックエンド・インフラを横断してエンドツーエンドで開発に取り組んでいます。
 
-Outside research: founded **ChoTech**, a student-engineer community in Nagasaki; teach programming to learners from elementary through high school; and join exchange / research programs abroad (Thailand, India).
+研究以外では、長崎の学生エンジニアコミュニティ **ChoTech** を立ち上げ、小中高生へのプログラミング指導や、海外（タイ・インド）での交換・研究プログラムにも参加しています。
 
 ### `$ neofetch`
 
@@ -23,13 +23,13 @@ Outside research: founded **ChoTech**, a student-engineer community in Nagasaki;
 
 ### `$ top`
 
-- 🔬 **Master's research** — building a _communication-augmentation platform that fuses generative AI with spatial computing_ at Setozaki Lab.
-- 🛠 **Shipping [tecnova-platform](https://github.com/ut42tech/tecnova-platform)** — a Turborepo monorepo (Hono on Cloudflare Workers + D1, Next.js 16, Better Auth, Drizzle) running operations for _tec-nova Nagasaki_, a creative-fabrication program for children at Nagasaki Univ.
-- 🌱 **Growing [ChoTech](https://github.com/nu-chotech)** — Nagasaki's student-engineer community, now an officially recognized university club.
+- 🔬 **修士研究** — 瀬戸崎研究室にて、_生成 AI と空間コンピューティングを融合させたコミュニケーション拡張プラットフォーム_ を開発中。
+- 🛠 **[tecnova-platform](https://github.com/ut42tech/tecnova-platform) を開発・運用中** — 長崎大学の子ども向けものづくりプログラム _tec-nova Nagasaki_ の運営基盤。Turborepo モノレポ構成（Cloudflare Workers + D1 上の Hono、Next.js 16、Better Auth、Drizzle）。
+- 🌱 **[ChoTech](https://github.com/nu-chotech) を運営中** — 長崎の学生エンジニアコミュニティ。大学公認サークルとして活動中。
 
 ### `$ stack`
 
-**Languages**  
+**言語**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,7 +38,7 @@ Outside research: founded **ChoTech**, a student-engineer community in Nagasaki;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Frontend & UI**  
+**フロントエンド & UI**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
@@ -47,7 +47,7 @@ Outside research: founded **ChoTech**, a student-engineer community in Nagasaki;
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![WebXR](https://img.shields.io/badge/WebXR-FF6611?style=for-the-badge)
 
-**Backend & API**  
+**バックエンド & API**
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -55,14 +55,14 @@ Outside research: founded **ChoTech**, a student-engineer community in Nagasaki;
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge)
 
-**Database**  
+**データベース**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-**Cloud & Infra**  
+**クラウド & インフラ**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -71,19 +71,19 @@ Outside research: founded **ChoTech**, a student-engineer community in Nagasaki;
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**AI & ML**  
+**AI & ML**
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logo=livekit&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black)
 
-**XR · Game · 3D**  
+**XR・ゲーム・3D**
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Cinema 4D](https://img.shields.io/badge/Cinema_4D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white)
 
-**Design**  
+**デザイン**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -91,45 +91,45 @@ Outside research: founded **ChoTech**, a student-engineer community in Nagasaki;
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
 
-**Tooling**  
+**ツール**
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-0F0F0F?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
 
-**Academic**  
+**アカデミック**
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white)
 
 ### `$ history`
 
-**🏆 Awards**
+**🏆 受賞歴**
 
-- **Nagasaki Univ. President's Award 2026** — academic research category
-- **Hackathon 2026 Spring by GABAITech** — Grand Prize & Special Award (_CotoCotoBa_, team Jigemon Tech)
-- **JSET 2024 Student Session Excellence Award** — youngest recipient ever, on a multilingual generative-AI study
-- **Nagasaki Hackathon 2025** — Japanet Award for Gamification of Nagasaki Stadium City
+- **長崎大学 学長表彰 2026** — 学術研究部門
+- **GABAITech 春のハッカソン 2026** — 最優秀賞 & 特別賞（_CotoCotoBa_ / チーム Jigemon Tech）
+- **日本教育工学会 (JSET) 2024 学生セッション 優秀賞** — 多言語生成 AI に関する研究で、史上最年少受賞
+- **長崎ハッカソン 2025** — ジャパネット賞（長崎スタジアムシティのゲーミフィケーション）
 
-**🌍 International**
+**🌍 海外活動**
 
-- **IIIT-Delhi 2025** — built _LiDAR Vision_, a spatial-perception aid for the visually impaired, with Prof. Richa Gupta in New Delhi
-- **TNI 2023** — field-tested a multilingual generative-AI assistant at Thai-Nichi Institute of Technology, Bangkok
+- **IIIT-Delhi 2025** — ニューデリーにて Richa Gupta 教授とともに、視覚障害者向けの空間認識支援システム _LiDAR Vision_ を開発
+- **TNI 2023** — バンコクの泰日工業大学 (Thai-Nichi Institute of Technology) にて、多言語生成 AI アシスタントを実証実験
 
-**🤝 Community & Teaching**
+**🤝 コミュニティ & 教育**
 
-- Founded **ChoTech**, an official Nagasaki University student-engineer community, running LT and workshops, product building, and more (2025-)
-- Organized **Nagasaki Hackathon 2025** at Nagasaki Stadium City with Japanet × Karabiner Technologies — the venue's first student-led hackathon
-- Programming instructor at **N Code Labo** (KADOKAWA Dwango Educational Institute) — Unity / Python / Swift / Web / 3DCG
-- Mentor at the Nagasaki Univ. Junior Doctor program and the prefectural high-school app-dev course (Unity, lecture videos)
-- Chief Mentor at **tec-nova Nagasaki**, a creative-fabrication program for children at Nagasaki Univ.
-- Featured in **"Nagasaki no WA!"**, Nagasaki City's promotional campaign (2025)
+- **ChoTech** 創設 — 長崎大学公認の学生エンジニアコミュニティ。LT・ワークショップ・プロダクト開発などを実施（2025年〜）
+- **長崎ハッカソン 2025** 運営 — 長崎スタジアムシティにて、ジャパネット × カラビナテクノロジーと共催。同会場初の学生主催ハッカソン
+- **N Code Labo**（KADOKAWAドワンゴ教育研究所）プログラミング講師 — Unity / Python / Swift / Web / 3DCG
+- 長崎大学ジュニアドクター育成塾、および長崎県の高校生向けアプリ開発講座のメンター（Unity、講義動画制作）
+- **tec-nova Nagasaki** チーフメンター — 長崎大学の子ども向けものづくりプログラム
+- **「長崎のWA！」**（長崎市プロモーション）に出演（2025年）
 
-**💼 Industry**
+**💼 就業等**
 
-- **BrightJ Inc.** (formerly Uniconnect) — long-term remote intern as upstream engineer & UI/UX designer (2023.5—)
-- **ZENRIN R&D** — 3-person team lead at a one-week hackathon-style internship, benchmarking OSS OCR models for road-sign detection (2024.8)
-- **tec-nova Nagasaki** — software engineer and chief designer, building the platform and user experience for this creative-fabrication program for children at Nagasaki University (2024.6—)
+- **BrightJ 株式会社**（旧 Uniconnect）— 上流エンジニア兼 UI/UX デザイナーとして長期リモートインターン（2023.5〜）
+- **ゼンリン R&D** — 3 人チームのリーダーとして、1 週間のハッカソン型インターンに参加。道路標識検出向け OSS OCR モデルのベンチマークを担当（2024.8）
+- **tec-nova Nagasaki** — 長崎大学の子ども向けものづくりプログラムにて、ソフトウェアエンジニア兼チーフデザイナー。プラットフォームと UX を構築（2024.6〜）
 
 ### `$ ssh`
 
