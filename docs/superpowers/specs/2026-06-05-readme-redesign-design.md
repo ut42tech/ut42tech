@@ -6,6 +6,8 @@
 
 > **Update (2026-06-05):** Bilingual decision reversed — the Japanese mirror `README.ja.md` is **dropped** this round. The README is now **English-only**; Japanese readers are served by the (Japanese) portfolio at ut42tech.com. This supersedes the "Language" row in §5, the `README.ja.md` link in §6.1, all of §10, and the JA cross-link bullet in §13; §11 now also covers deleting `README.ja.md`.
 
+> **Update 2 (2026-06-05):** Visual direction softened to a **neutral / clean theme** (green accent removed). The header now cycles **3 typing lines** — `Hi there, I'm Takuya Uehara 👋` → `Full-stack Dev & Design` → the motto — in neutral gray (`#808080`). The `neofetch` cards revert to the original `theme=transparent` (no color overrides). **Profile Views and the Portfolio link move to a subtle flat-badge footer at the very bottom**; the top visitors badge and the large for-the-badge CTA are removed. The whoami research line reads *AI agent × spatial computing*. The shipped `README.md` is canonical; this supersedes the green accents in §5/§7 and the header/CTA placement in §6.1/§6.6.
+
 ## 1. Background & Problem
 
 The current profile README is information-dense and hard to read:

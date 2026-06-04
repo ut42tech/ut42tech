@@ -14,6 +14,8 @@
 
 > **Update (2026-06-05):** Bilingual decision reversed — the README is **English-only** this round and `README.ja.md` is **deleted**. Japanese readers are served by the (Japanese) portfolio at ut42tech.com.
 
+> **Update 2 (2026-06-05):** Design softened to a **neutral / clean theme** — green accent removed; header cycles 3 typing lines (`Hi there, I'm Takuya Uehara 👋` → `Full-stack Dev & Design` → motto) in gray `#808080`; `neofetch` reverts to `theme=transparent`; **Profile Views + Portfolio become subtle flat badges in a bottom footer** (top visitors badge and large CTA removed); whoami reads *AI agent × spatial computing*. The green component URLs in Task 1 below are superseded by the shipped `README.md`, which is canonical.
+
 ---
 
 ## File Structure
