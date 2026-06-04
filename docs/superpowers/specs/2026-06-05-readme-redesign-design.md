@@ -4,6 +4,8 @@
 - **Repo:** `ut42tech/ut42tech` (GitHub profile README)
 - **Status:** Approved (design phase)
 
+> **Update (2026-06-05):** Bilingual decision reversed — the Japanese mirror `README.ja.md` is **dropped** this round. The README is now **English-only**; Japanese readers are served by the (Japanese) portfolio at ut42tech.com. This supersedes the "Language" row in §5, the `README.ja.md` link in §6.1, all of §10, and the JA cross-link bullet in §13; §11 now also covers deleting `README.ja.md`.
+
 ## 1. Background & Problem
 
 The current profile README is information-dense and hard to read:
