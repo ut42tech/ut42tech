@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img alt="Tech stack" src="https://go-skill-icons.vercel.app/api/icons?i=typescript,python,golang,swift,nextjs,hono,turborepo,threejs,tailwindcss,figma,blender,unity,aws,gcp,cloudflare,supabase,docker,proxmox,vim,claude&perline=10" />
+<img alt="Tech stack" src="https://go-skill-icons.vercel.app/api/icons?i=typescript,python,golang,swift,nextjs,hono,turborepo,threejs,tailwindcss,figma,blender,unity,aws,gcp,cloudflare,supabase,docker,proxmox,vim,claude&perline=10&theme=dark" />
 
 </div>
 
