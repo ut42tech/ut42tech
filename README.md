@@ -4,6 +4,8 @@
 
 </div>
 
+---
+
 ### `$ whoami`
 
 - Software Engineer & Designer @ **Nagasaki University** · Setozaki Lab.
@@ -20,7 +22,7 @@
 
 <div align="center">
 
-<img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,python,cs,swift,react,nextjs,threejs,tailwind,nodejs,unity,blender,figma,aws,cloudflare,docker&perline=10" />
+<img alt="Tech stack" src="https://go-skill-icons.vercel.app/api/icons?i=typescript,python,golang,cs,swift,nextjs,vuejs,hono,threejs,tailwindcss,nodejs,unity,blender,figma,aws,gcp,cloudflare,docker,proxmox,vim&perline=10" />
 
 </div>
 
