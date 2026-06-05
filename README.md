@@ -8,8 +8,8 @@
 
 ### `$ whoami`
 
-- Software Engineer & Designer @ **Nagasaki University** · Setozaki Lab.
-- Master's student — researching **AI agent × spatial computing**.
+- Master's student at **Nagasaki University**
+- Researching **AI agent × spatial computing**.
 - `# I work end-to-end: design, frontend, backend, infra.`
 
 ### `$ cat now.md`
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img alt="Tech stack" src="https://go-skill-icons.vercel.app/api/icons?i=typescript,python,golang,cs,swift,nextjs,vuejs,hono,threejs,tailwindcss,nodejs,unity,blender,figma,aws,gcp,cloudflare,docker,proxmox,vim&perline=10" />
+<img alt="Tech stack" src="https://go-skill-icons.vercel.app/api/icons?i=typescript,python,golang,swift,nextjs,hono,turborepo,threejs,tailwindcss,figma,blender,unity,aws,gcp,cloudflare,supabase,docker,proxmox,vim,claude&perline=10" />
 
 </div>
 
